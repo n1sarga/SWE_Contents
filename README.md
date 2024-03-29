@@ -11,5 +11,5 @@ To access the dataset on the local machine:
 An interactive python notebook named __'Dataset Download.ipynb'__ can be found in the __'Datasets'__ folder where the above steps are done.
 
 ## Libraries used: 
-![pandas](https://img.shields.io/badge/Pandas-1.3.3-blue) ![datasets](https://img.shields.io/badge/datasets-1.14.0-blue) ![os](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-brightgreen)
+![pandas](https://img.shields.io/badge/Pandas-1.3.3-blue) ![datasets](https://img.shields.io/badge/datasets-1.14.0-blue)
 
