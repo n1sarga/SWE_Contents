@@ -1,6 +1,6 @@
 # __BigCloneBench__
 
-## Dataset Description: https://github.com/clonebench/BigCloneBench
+Description of the dataset can be found [here](https://github.com/clonebench/BigCloneBench).
 
 To access the dataset in your local machine:
 * Install __'datasets'__ library in python using __'pip'__
